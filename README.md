@@ -39,3 +39,21 @@ My journey of learning Data Structures and Algorithms through Python and LeetCod
 ## Progress
 
 See [Progress.md](Progress.md).
+
+### Current Progress
+
+- Python Basics: ✅ Completed
+- Arrays & Hashing: 🔄 In Progress
+- Problems Solved: **1**
+
+### Problems Completed
+
+| # | Problem | Difficulty | Topic |
+|---|---|---|---|
+| 1 | Two Sum | Easy | Array, Hash Map |
+
+## Current Focus
+
+**Arrays & Hashing**
+
+Currently learning problem-solving patterns through LeetCode, starting with fundamental array and hashing problems.
