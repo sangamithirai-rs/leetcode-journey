@@ -8,8 +8,8 @@
 - [x] Strings
 - [x] Lists
 - [x] Dictionaries
-- [ ] Sets
-- [ ] Functions
+- [x] Sets
+- [x] Functions
 - [ ] Basic Time Complexity
 
 ## LeetCode
