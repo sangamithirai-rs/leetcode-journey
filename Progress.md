@@ -4,8 +4,8 @@
 
 - [x] Variables & Data Types
 - [x] Conditions
-- [ ] Loops
-- [ ] Strings
+- [x] Loops
+- [x] Strings
 - [ ] Lists
 - [ ] Dictionaries
 - [ ] Sets
