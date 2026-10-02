@@ -2,7 +2,7 @@
 
 ## Python Basics
 
-- [ ] Variables & Data Types
+- [x] Variables & Data Types
 - [ ] Conditions
 - [ ] Loops
 - [ ] Strings
