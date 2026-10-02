@@ -10,7 +10,7 @@
 - [x] Dictionaries
 - [x] Sets
 - [x] Functions
-- [ ] Basic Time Complexity
+- [x] Basic Time Complexity
 
 ## LeetCode
 
