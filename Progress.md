@@ -17,12 +17,12 @@
 | # | Problem | Topic | Difficulty | Status |
 |---|---|---|---|---|
 | 1 | Two Sum | Array, Hash Map | Easy | ✅ |
-| 2 | Contains Duplicate | Array, Set | Easy | ⬜ |
+| 2 | Contains Duplicate | Array, Set | Easy | ✅ |
 | 3 | Valid Anagram | Hash Map | Easy | ⬜ |
 
 ## Statistics
 
-- Problems Solved: 1
+- Problems Solved: 2
 - Easy: 1
 - Medium: 0
 - Hard: 0
