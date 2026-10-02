@@ -44,13 +44,15 @@ See [Progress.md](Progress.md).
 
 - Python Basics: ✅ Completed
 - Arrays & Hashing: 🔄 In Progress
-- Problems Solved: **1**
+- Problems Solved: **3**
 
 ### Problems Completed
 
 | # | Problem | Difficulty | Topic |
 |---|---|---|---|
 | 1 | Two Sum | Easy | Array, Hash Map |
+| 2 | Contains Duplicate | Easy | Array, Set |
+| 3 | Valid Anagram | Easy | Hash Map, Frequency Counting |
 
 ## Current Focus
 
