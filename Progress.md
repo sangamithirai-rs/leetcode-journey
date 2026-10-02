@@ -16,13 +16,13 @@
 
 | # | Problem | Topic | Difficulty | Status |
 |---|---|---|---|---|
-| 1 | Two Sum | Array, Hash Map | Easy | ⬜ |
+| 1 | Two Sum | Array, Hash Map | Easy | ✅ |
 | 2 | Contains Duplicate | Array, Set | Easy | ⬜ |
 | 3 | Valid Anagram | Hash Map | Easy | ⬜ |
 
 ## Statistics
 
-- Problems Solved: 0
-- Easy: 0
+- Problems Solved: 1
+- Easy: 1
 - Medium: 0
 - Hard: 0
