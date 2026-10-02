@@ -6,8 +6,8 @@
 - [x] Conditions
 - [x] Loops
 - [x] Strings
-- [ ] Lists
-- [ ] Dictionaries
+- [x] Lists
+- [x] Dictionaries
 - [ ] Sets
 - [ ] Functions
 - [ ] Basic Time Complexity
