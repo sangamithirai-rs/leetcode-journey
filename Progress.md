@@ -3,7 +3,7 @@
 ## Python Basics
 
 - [x] Variables & Data Types
-- [ ] Conditions
+- [x] Conditions
 - [ ] Loops
 - [ ] Strings
 - [ ] Lists
