@@ -20,10 +20,11 @@
 | 2 | Contains Duplicate | Array, Set | Easy | ✅ |
 | 3 | Valid Anagram | Hash Map | Easy | ✅ |
 | 4 | Valid Palindrome | Two Pointers | Easy | ✅ |
+| 5 | Two Sum II | Two Pointers | Medium | ✅ |
 
 ## Statistics
 
-- Problems Solved: 4
+- Problems Solved: 5
 - Easy: 4
-- Medium: 0
+- Medium: 1
 - Hard: 0
