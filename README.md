@@ -45,7 +45,7 @@ See [Progress.md](Progress.md).
 - Python Basics: ✅ Completed
 - Arrays & Hashing: ✅ Completed
 - Two Pointers: 🔄 In Progress
-- Problems Solved: **4**
+- Problems Solved: **5**
 
 ### Problems Completed
 
@@ -55,6 +55,7 @@ See [Progress.md](Progress.md).
 | 2 | Contains Duplicate | Easy | Array, Set |
 | 3 | Valid Anagram | Easy | Hash Map, Frequency Counting |
 | 4 | Valid Palindrome | Easy | Two Pointers |
+| 5 | Two Sum II | Medium | Two Pointers |
 
 ## Current Focus
 
