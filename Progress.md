@@ -21,10 +21,11 @@
 | 3 | Valid Anagram | Hash Map | Easy | ✅ |
 | 4 | Valid Palindrome | Two Pointers | Easy | ✅ |
 | 5 | Two Sum II | Two Pointers | Medium | ✅ |
+| 6 | Container With Most Water | Two Pointers | Medium | ✅ |
 
 ## Statistics
 
-- Problems Solved: 5
+- Problems Solved: 6
 - Easy: 4
-- Medium: 1
+- Medium: 2
 - Hard: 0
