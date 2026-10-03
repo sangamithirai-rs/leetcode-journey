@@ -18,11 +18,12 @@
 |---|---|---|---|---|
 | 1 | Two Sum | Array, Hash Map | Easy | ✅ |
 | 2 | Contains Duplicate | Array, Set | Easy | ✅ |
-| 3 | Valid Anagram | Hash Map | Easy |✅ |
+| 3 | Valid Anagram | Hash Map | Easy | ✅ |
+| 4 | Valid Palindrome | Two Pointers | Easy | ✅ |
 
 ## Statistics
 
-- Problems Solved: 3
-- Easy: 3
+- Problems Solved: 4
+- Easy: 4
 - Medium: 0
 - Hard: 0
