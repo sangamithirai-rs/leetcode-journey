@@ -43,8 +43,9 @@ See [Progress.md](Progress.md).
 ### Current Progress
 
 - Python Basics: ✅ Completed
-- Arrays & Hashing: 🔄 In Progress
-- Problems Solved: **3**
+- Arrays & Hashing: ✅ Completed
+- Two Pointers: 🔄 In Progress
+- Problems Solved: **4**
 
 ### Problems Completed
 
@@ -53,9 +54,10 @@ See [Progress.md](Progress.md).
 | 1 | Two Sum | Easy | Array, Hash Map |
 | 2 | Contains Duplicate | Easy | Array, Set |
 | 3 | Valid Anagram | Easy | Hash Map, Frequency Counting |
+| 4 | Valid Palindrome | Easy | Two Pointers |
 
 ## Current Focus
 
-**Arrays & Hashing**
+**Two Pointers**
 
-Currently learning problem-solving patterns through LeetCode, starting with fundamental array and hashing problems.
+Currently learning the Two Pointers pattern through fundamental array and string problems.
