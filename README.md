@@ -45,7 +45,7 @@ See [Progress.md](Progress.md).
 - Python Basics: ✅ Completed
 - Arrays & Hashing: ✅ Completed
 - Two Pointers: 🔄 In Progress
-- Problems Solved: **6**
+- Problems Solved: **7**
 
 ### Problems Completed
 
@@ -57,6 +57,7 @@ See [Progress.md](Progress.md).
 | 4 | Valid Palindrome | Easy | Two Pointers |
 | 5 | Two Sum II | Medium | Two Pointers |
 | 6 | Container With Most Water | Medium | Two Pointers |
+| 7 | 3Sum | Medium | Two Pointers, Sorting |
 
 ## Current Focus
 
