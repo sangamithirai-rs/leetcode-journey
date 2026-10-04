@@ -22,10 +22,11 @@
 | 4 | Valid Palindrome | Two Pointers | Easy | ✅ |
 | 5 | Two Sum II | Two Pointers | Medium | ✅ |
 | 6 | Container With Most Water | Two Pointers | Medium | ✅ |
+| 7 | 3Sum | Two Pointers, Sorting | Medium | ✅ |
 
 ## Statistics
 
-- Problems Solved: 6
+- Problems Solved: 7
 - Easy: 4
-- Medium: 2
+- Medium: 3
 - Hard: 0
