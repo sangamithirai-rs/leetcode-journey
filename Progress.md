@@ -23,10 +23,11 @@
 | 5 | Two Sum II | Two Pointers | Medium | ✅ |
 | 6 | Container With Most Water | Two Pointers | Medium | ✅ |
 | 7 | 3Sum | Two Pointers, Sorting | Medium | ✅ |
+| 8 | Move Zeroes | Two Pointers | Easy | ✅ |
 
 ## Statistics
 
-- Problems Solved: 7
-- Easy: 4
+- Problems Solved: 8
+- Easy: 5
 - Medium: 3
 - Hard: 0
